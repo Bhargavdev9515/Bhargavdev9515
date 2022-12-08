@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhargavdev9515 working as a Blockchain Developer
 - 👀 I’m interested in Defi, DApp,NFT and Metaverse
-- 🌱 I’m currently learning Smart contract Auditing
+- 🌱 I’m doing  Smart contract Auditing (slither,smartcontract unit testing, bugbounty(immunifi,code4rena))
 - 💞️ I’m looking to collaborate on opensource projects  or Blockchain related Projects
 - 📫 How to reach me LinkedIn (Bhargav D) or Twitter(@Bhargav_Dasappa)
 
