@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 AI & Intelligence
 - AI-powered solutions  
@@ -22,12 +22,20 @@
 - Intelligent workflows  
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🔐 Web3 & Privacy
 - Zero-Knowledge Proofs (ZK)  
 - Real World Assets (RWA)  
 - Privacy-preserving systems  
+
+</td>
+<td width="33%">
+
+### ☁️ DevOps & Cloud
+- Azure & AWS  
+- CI/CD pipelines  
+- Cloud infrastructure & scaling  
 
 </td>
 </tr>
@@ -66,9 +74,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20D-blue?style=for-the-badge&logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-@Bhargav_Dasappa-black?style=for-the-badge&logo=x)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Bhargavdev9515-181717?style=for-the-badge&logo=github)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav%20D-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-dasappagari-997869209/)
+[![Twitter](https://img.shields.io/badge/X-@Bhargav_Dasappa-black?style=for-the-badge&logo=x)](https://x.com/Bhargav_Dasappa)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhargavdev9515-181717?style=for-the-badge&logo=github)](https://github.com/Bhargavdev9515)
 
 </div>
 
